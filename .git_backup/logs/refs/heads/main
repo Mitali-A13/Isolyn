@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 29f3aeeff8838d52518e47f4940148670b4aab2b Mitali Awasthi <mitaliawasthi131@gmail.com> 1768225001 +0530	commit (initial): initial backend setup
+29f3aeeff8838d52518e47f4940148670b4aab2b 29f3aeeff8838d52518e47f4940148670b4aab2b Mitali Awasthi <mitaliawasthi131@gmail.com> 1768225154 +0530	Branch: renamed refs/heads/master to refs/heads/main
+29f3aeeff8838d52518e47f4940148670b4aab2b a5247f0e8321bfa7d511d93eac64082939377e95 Mitali Awasthi <mitaliawasthi131@gmail.com> 1768310484 +0530	commit: stabilize routes, Joi validation, and global error handling
+a5247f0e8321bfa7d511d93eac64082939377e95 b57ce9c4ea68e76309dc00f4083bb207f1507bcf Mitali Awasthi <mitaliawasthi131@gmail.com> 1768380230 +0530	commit: implement API key based access control
+b57ce9c4ea68e76309dc00f4083bb207f1507bcf 3a980846d7cac73f5b6235c42b7adcc775e14743 Mitali Awasthi <mitaliawasthi131@gmail.com> 1768383715 +0530	commit: initialize Isolyn frontend with Next.js and Tailwind
+3a980846d7cac73f5b6235c42b7adcc775e14743 74710f9ddf241b5972e973dc57f7f181289892ea Mitali Awasthi <mitaliawasthi131@gmail.com> 1768494338 +0530	commit: implement auth, protected dashboard, and API key generation
+74710f9ddf241b5972e973dc57f7f181289892ea cb117355b1b7e34cc06a57f2b3d1865f0879975f Mitali Awasthi <mitaliawasthi131@gmail.com> 1768495857 +0530	commit: add regeneration success and error toasts
+cb117355b1b7e34cc06a57f2b3d1865f0879975f d79ccae8a610203756caa234297388c2c2439ce3 Mitali Awasthi <mitaliawasthi131@gmail.com> 1768496707 +0530	commit: added landing page functionality
+d79ccae8a610203756caa234297388c2c2439ce3 eeb2c98c952024b9babb93a7ef8fbd9af21f169a Mitali Awasthi <mitaliawasthi131@gmail.com> 1768498261 +0530	commit: fix: make axios client-safe for next build
+eeb2c98c952024b9babb93a7ef8fbd9af21f169a 2d7193b976476473f6876c9c64ebb024849cb733 Mitali Awasthi <mitaliawasthi131@gmail.com> 1768805542 +0530	commit: Fix API base URL and CORS for production
+2d7193b976476473f6876c9c64ebb024849cb733 4e32c49c9a4b68a314b5acfe417990e5704e98f1 Mitali Awasthi <mitaliawasthi131@gmail.com> 1768805622 +0530	pull origin main --rebase (finish): refs/heads/main onto 78b7012b337b451aa1ce61437ee07a938db9f8e8
+4e32c49c9a4b68a314b5acfe417990e5704e98f1 4916a185666b787dc25015dc73b5ed955bc71f31 Mitali Awasthi <mitaliawasthi131@gmail.com> 1769427530 +0530	commit: major fixes for API key system, dashboard UI, auto-generation, masking & dark-mode improvements
